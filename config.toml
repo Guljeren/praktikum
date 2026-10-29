@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#2dd4bf"          # цвет ползунков и активных элементов (бирюзовый)
+backgroundColor = "#0b2128"
+secondaryBackgroundColor = "#10303a"
+textColor = "#e8f5f3"
+font = "sans serif"
